@@ -1,2 +1,2 @@
 # AI-Machine-Learning
-AI/ Machine Learning projects
+This is a repository of my AI/ Machine Learning projects projects and exploration.
